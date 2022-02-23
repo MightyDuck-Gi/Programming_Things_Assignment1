@@ -25,6 +25,11 @@ Achievements
 
 [x] Task 4 - Forth task should allow the robot to automaticly turn after user inputs where the robot should go after hitting the wall. The user can select to go 90 degrees left or right or do 180 degree if it hits a dead end. 
 
+VideoLinks 
+
+Task 1 - https://www.youtube.com/watch?v=OGIFihssKZE&ab_channel=EMRANHAMDU
+Task 2 & 3 - https://www.youtube.com/watch?v=7FN7iPuekRg&ab_channel=EMRANHAMDU
+Task 4 - https://www.youtube.com/watch?v=h7sT7Bo2LVY&ab_channel=EMRANHAMDU
 
 Key Issues & Resolves
 
