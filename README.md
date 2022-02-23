@@ -7,3 +7,4 @@ This is an repo of my assignment for programming things, where we coded pololu z
 In order to achive this task, different libaries and aspects were used to complete these. For example the line sensors to keep within the corridoors and rooms, the wireless serial communications between xBee and GUI, as well as using the motors to move the zumo.
 
 GUI
+![image](https://user-images.githubusercontent.com/72032298/155357265-f3fab9b5-14b6-46f1-898d-0562b9bfd6ac.png)
